@@ -1,0 +1,12 @@
+.bg-pkink{
+    background-color: #B02A37;
+}
+
+.logo-img {
+position: relative;
+left: 10%;
+top: 50%;
+transform: translate(-50%, -50%);
+width: 90px;
+    height: 90px;
+}
